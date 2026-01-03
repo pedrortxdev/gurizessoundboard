@@ -116,4 +116,4 @@ src/
 
 ## 📝 Licença
 
-MIT
+GNU GPL v3
